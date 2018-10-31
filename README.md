@@ -32,6 +32,7 @@ Por ejemplo, desde aquí con los mejores parámetros que hallamos para el 4 en l
 * bin/golosa 3 -21 1 17 23 0 5 32 64 97
 
 
+
 # Ejecución de los entrenadores
 
 Los binarios de los entrenadores se encuentran en bin/ una vez compilados. Si se ejecutan sin parámetros puede verse un 'help' que indica cómo se usan. Por salida estándar dan la información necesaria.
