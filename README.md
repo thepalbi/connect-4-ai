@@ -5,6 +5,7 @@
 * mediciones/ : fuentes de todas las experimentaciones.
 
 
+
 # Compilación del Código
 
 Para compilar a los jugadores puede hacerse "make" desde el directorio raiz (aquí mismo), y los ejecutables quedarán en bin/.
